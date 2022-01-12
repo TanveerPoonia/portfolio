@@ -1,0 +1,32 @@
+.Home {
+  background-color: black;
+  display: flex;
+  height: 630px;
+  padding: 80px;
+  position: relative;
+}
+.Home .Container {
+  position: absolute;
+  top: 15%;
+  left: 2%;
+  color: white;
+}
+.Home .Container .Hello {
+  font-size: 63px;
+}
+.Home .Container h1 {
+  margin: 0;
+}
+.Home .Lancers {
+  height: 30%;
+  position: absolute;
+  width: 30%;
+  left: 3%;
+  bottom: 10%;
+}
+.Home .Logo {
+  height: 50%;
+  position: absolute;
+  top: 60;
+  right: 2%;
+}

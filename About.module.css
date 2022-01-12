@@ -1,0 +1,24 @@
+.About {
+  background-color: black;
+  padding-bottom: 5%;
+}
+.About .Container {
+  display: flex;
+}
+.About .Container .Text {
+  width: 47%;
+  margin-left: 3%;
+}
+.About .Container .Text h2 {
+  font-weight: 900;
+  font-size: 46px;
+}
+.About .Container .Photo {
+  display: flex;
+  width: 50%;
+  justify-content: center;
+}
+.About .Container .Photo .Me {
+  height: 500px;
+  border-radius: 10%;
+}
